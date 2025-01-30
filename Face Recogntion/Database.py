@@ -12,7 +12,7 @@ firebase_admin.initialize_app(cred,
 
 
 
-ref = db.reference('Students')
+ref = db.reference('People')
 
 data = {
     "321654":
@@ -60,8 +60,6 @@ data = {
             "year": +50,
             "last_attendance_time": "2022-12-11 00:54:34"
         }
-    
-
 
 }
 for key, value in data.items():
