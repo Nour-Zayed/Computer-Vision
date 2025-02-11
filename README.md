@@ -37,6 +37,7 @@ Dlib – Face landmark detection
 Deep Learning Models – Pre-trained models for face recognition
 
 📌 Features:
+
 ✔ Detects faces in images and video streams
 
 ✔ Identifies and labels recognized faces
