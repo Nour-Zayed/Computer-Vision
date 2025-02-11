@@ -7,8 +7,6 @@ Computer-Vision GitHub Repository Overview
 
 📌 Repository Information:
 
-Repository Name: Computer-Vision
-
 Programming Language: Python
 
 Libraries & Tools Used: OpenCV, MediaPipe, NumPy, Matplotlib
