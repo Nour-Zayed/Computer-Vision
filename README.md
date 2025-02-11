@@ -1,5 +1,12 @@
 # Computer-Vision
 
+
+![WhatsApp Image 2025-02-11 at 10 44 10 PM](https://github.com/user-attachments/assets/a41ace47-be61-4fef-a2cc-2010a451d988)
+
+![WhatsApp Image 2025-02-11 at 10 46 44 PM](https://github.com/user-attachments/assets/86fddcf5-a0ac-4f28-850a-abf7d3ce1817)
+
+
+
 # Computer Vision Projects Repository
 This repository contains a collection of computer vision projects that demonstrate the power of image processing, hand tracking, and gesture-based controls. The projects leverage Python libraries such as OpenCV, MediaPipe, and PyAutoGUI to solve real-world problems and provide innovative solutions.
 
